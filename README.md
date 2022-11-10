@@ -9,3 +9,7 @@ Or `brew tap whomwah/tap` and then `brew install <formula>`.
 ## Documentation
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+
+## Findd
+
+`brew install whomwah/tap/findd`
