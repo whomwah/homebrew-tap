@@ -14,4 +14,10 @@ Or `brew tap whomwah/tap` and then `brew install <formula>`.
 
 ### Findd
 
+A simple utility that scans a path and when provided with a string will return the parent directory of that string. It's super fast too.
+
+* https://github.com/whomwah/findd
+
+#### Install
+
 `brew install whomwah/tap/findd`
